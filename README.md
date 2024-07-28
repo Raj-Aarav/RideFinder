@@ -33,15 +33,15 @@ This C program simulates a ride-sharing system. It allows users to add drivers a
 2. Run the Program.
 3. Program Execution Flow : 
   Follow the prompts in the program :
-  i. _Add Drivers:_
+   3.1. _Add Drivers:_
     - The program will prompt you to enter driver details.
     - Enter the driver's name, car details, and location coordinates (x y).
     - After adding a driver, you can choose to add another driver or proceed to the next step.
-  ii. _Add Passengers:_
+  3.2. _Add Passengers:_
     - The program will prompt you to enter passenger details.
     - Enter the passenger's name, initial location coordinates (x y), and destination coordinates (x y).
     - After adding a passenger, you can choose to add another passenger or proceed to the main menu.
-  iii. _Main Menu:_
+  3.3. _Main Menu:_
   The main menu provides various options:
     - Request a Ride: Enter the index of the passenger who wants to request a ride. The program will find the nearest available driver and assign the ride.
     - Calculate Ride Fare: If a ride is assigned and not canceled, the program will calculate and display the fare based on the distance traveled.
@@ -49,4 +49,4 @@ This C program simulates a ride-sharing system. It allows users to add drivers a
     - Complete a Ride: Complete the ongoing ride, calculate the fare, and make the driver available again.
     - Display Drivers List: Display a list of all drivers with their current status and location.
     - Display Passengers List: Display a list of all passengers with their ride status.
-  iv. _Exit:_ Exit the program.
+  3.4. _Exit:_ Exit the program.
