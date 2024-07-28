@@ -1,4 +1,4 @@
-RideFinder : A Ride-hailing system
+**RideFinder** : A Ride-hailing system
 This C program simulates a ride-sharing system. It allows users to add drivers and passengers, request rides, calculate fares, cancel rides, and complete rides. The program manages the availability of drivers and the status of passengers, ensuring that rides are assigned, canceled, and completed correctly.
 
 Features
