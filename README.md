@@ -1,7 +1,8 @@
-**RideFinder** : A Ride-hailing system
+****RideFinder****
+
 This C program simulates a ride-sharing system. It allows users to add drivers and passengers, request rides, calculate fares, cancel rides, and complete rides. The program manages the availability of drivers and the status of passengers, ensuring that rides are assigned, canceled, and completed correctly.
 
-Features
+**Features**
 1. Driver Management
   - Add drivers with details such as name, car details, and location.
   - Display the list of all drivers with their current status and location.
@@ -20,13 +21,13 @@ Features
   - View the list of drivers and their availability status.
   - View the list of passengers and their ride status.
 
-Instructions to run the Ride-Hailing System C program successfully, follow the steps below :
-
-Prerequisites : 
+**Instructions to run the Ride-Hailing System C program successfully, follow the steps below :
+****
+_Prerequisites : _**
   - A C compiler (e.g., GCC)
   - A command-line interface (CLI) or integrated development environment (IDE) that supports C programming
 
-Steps to Execute : 
+**_Steps to Execute :_** 
 
 1. Compile the Code.
 2. Run the Program.
